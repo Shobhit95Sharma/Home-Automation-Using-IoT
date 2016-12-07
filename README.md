@@ -24,6 +24,6 @@ This project **implements** a small module of IoT(raspberry pi B+) by connecting
 
 For futher queries
 
->[Bhawesh Chadola](bhawesh.chandola@gmail.com)
->[Shobhit Sharma](shobhit95sharma@gmail.com)
+- [Bhawesh Chadola] bhawesh.chandola@gmail.com
+- [Shobhit Sharma] shobhit95sharma@gmail.com
 
